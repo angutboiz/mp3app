@@ -31,26 +31,26 @@ const app = {
     {
       name: "Cánh Hoa Tàn Nứa",
       singer: "Masew x Khoi Vu",
-      path: "./asstets/music/aino.mp3",
-      image: "https://i.ytimg.com/vi/1pquvJRgIMY/mqdefault.jpg"
+      path: "https://tainhacmienphi.biz/get/song/api/266637",
+      image: "https://avatar-ex-swe.nixcdn.com/playlist/2017/12/01/4/b/f/0/1512120282650_500.jpg"
     },
     {
       name: "Ai Chung Tình Được Mãi",
       singer: "Đinh Huy Tùng",
-      path: "./asstets/music/aichungtinhduocmai.mp3",
+      path: "https://tainhacmienphi.biz/get/song/api/348702",
       image:
         "https://avatar-ex-swe.nixcdn.com/song/2022/04/26/d/1/1/f/1650953841508_500.jpg"
     },
     {
       name: "Em Đau Rồi Đấy",
       singer: "Dương Phi Yến",
-      path: "./asstets/music/emdauroiday.mp3",
+      path: "https://tainhacmienphi.biz/get/song/api/393246",
       image: "https://data.chiasenhac.com/data/cover/161/160768.jpg"
     },
     {
       name: "Em Là Con Thuyền Cô Đơn",
       singer: "Thái Học",
-      path: "./asstets/music/emlaconthuyencodon.mp3",
+      path: "https://tainhacmienphi.biz/get/song/api/344648",
       image:
         "https://i.ytimg.com/vi/InlnBTL4qeQ/maxresdefault.jpg"
     }
