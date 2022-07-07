@@ -53,6 +53,20 @@ const app = {
       path: "https://tainhacmienphi.biz/get/song/api/344648",
       image:
         "https://i.ytimg.com/vi/InlnBTL4qeQ/maxresdefault.jpg"
+    },
+    {
+      name: "Có Duyên Không Nợ",
+      singer: "NB3 Hoài Bảo",
+      path: "https://tainhacmienphi.biz/get/song/api/318599",
+      image:
+        "https://i.ytimg.com/vi/dJ10fUFNO_s/mqdefault.jpg"
+    },
+    {
+      name: "Đau Ở Đây Này",
+      singer: "Nal",
+      path: "https://tainhacmienphi.biz/get/song/api/348710",
+      image:
+        "https://images.hungama.com/c/1/42d/ee8/89708099/89708099_300x300.jpg"
     }
   ],
   setConfig: function (key, value) {
